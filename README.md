@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Connect 4 Game</title>
 </head>
 <body>
 
@@ -53,7 +52,7 @@
 
 <h2>Credits</h2>
 
-<p>Developed by [Your Name]. Inspired by the classic game of Connect 4.</p>
+<p>Developed by Protyay Dey. Inspired by the classic game of Connect 4.</p>
 
 <h2>License</h2>
 
