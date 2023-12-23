@@ -44,6 +44,7 @@
     </ul>
   </li>
   <li><strong>Setup:</strong> Clone the repository to your local machine.</li>
+  <li>Run <code>pip install -r requirements.txt </code></li>
   <li><strong>Execution:</strong> Run <code>main.py</code> using Python to start the game. Select the desired mode from the menu to play.</li>
 </ol>
 
