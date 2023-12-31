@@ -38,9 +38,9 @@
 <ol>
   <li><strong>Requirements:</strong>
     <ul>
-      <li>Python 3.11.5</li>
-      <li>Tkinter library (tk=0.1.0)</li>
-      <li>Pillow library (pillow=10.1.0)</li>
+      <li>Python</li>
+      <li>Tkinter library</li>
+      <li>Pillow library</li>
     </ul>
   </li>
   <li><strong>Setup:</strong> Clone the repository to your local machine.</li>
